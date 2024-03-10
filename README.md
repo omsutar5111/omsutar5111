@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omsutar5111
-- 👀 I’m currently working as Frontend Devoloper in Infosys
-- 🌱 I've Created projects in Javascript,HTML,CSS,Angular
+- 👀 I’m currently working as Fullstack Devoloper (Java+Angular+MySql)
+- 🌱 I've Created projects in Javascript,HTML,CSS,Angular,Java,SpringBoot 
 - 💞️
 - 📫 How to reach me ...
 
